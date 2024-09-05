@@ -44,5 +44,5 @@ and apply e1 e2 =
 let evaluate exp = evaluateExpr exp Map.empty
 
 // Пример выполнения программы с эмодзи
-let exampleProgram = "💡 x = 5 💼 💡 y = ➕(x, 3) 💼 ➕(y, 2)"
+let exampleProgram = ""💡 x = 5 💼 x""
 printfn "Результат = %A" (parse exampleProgram |> evaluate)
