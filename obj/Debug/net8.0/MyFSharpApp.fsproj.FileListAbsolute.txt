@@ -1,0 +1,4 @@
+C:\Users\nikon\Desktop\myEmoji\MyFSharpApp\obj\Debug\net8.0\MyFSharpApp.fsproj.AssemblyReference.cache
+C:\Users\nikon\Desktop\myEmoji\MyFSharpApp\obj\Debug\net8.0\MyFSharpApp.AssemblyInfoInputs.cache
+C:\Users\nikon\Desktop\myEmoji\MyFSharpApp\obj\Debug\net8.0\MyFSharpApp.AssemblyInfo.fs
+C:\Users\nikon\Desktop\myEmoji\MyFSharpApp\obj\Debug\net8.0\MyFSharpApp.fsproj.CoreCompileInputs.cache
