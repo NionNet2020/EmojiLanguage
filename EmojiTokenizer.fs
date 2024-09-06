@@ -48,10 +48,4 @@ let tokenize input =
             | "➗" -> loop remaining "" (Operator "➗" :: tokens)
             | _ -> loop remaining (currentToken + firstChar) tokens
 
-    // Преобразуем входную строку в токены
     loop input "" [] |> List.rev
-
-// Пример использования
-let input = "😊 123 😃 ➕ 456"
-let tokens = tokenize input
-printfn "%A" tokens
